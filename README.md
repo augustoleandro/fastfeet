@@ -3,7 +3,7 @@
 # Desafio Final - GoStack 10 - RocketSeat
 
 ## 🚀 Introdução
-___
+
 Esta é minha solução do desafio final proposto pela [RocketSeat](https://rocketseat.com.br/). A aplicação FastFeet é uma solução para gestão e entregas de encomendas para um transportadora fictícia.
 
 A solução é composta pelo desenvolvimento do back-end, front-end web e mobile (iOS).
@@ -17,7 +17,7 @@ O desenvolvimento do desafio final é resultado da conclusão de quatro etapas p
 + [Etapa 4](https://github.com/Rocketseat/bootcamp-gostack-desafio-10)
 
 ## 🧑🏻‍💻 Instruções para Instalação e Execução da aplicação
-___
+
 
 👥 Faça um clone do repositório, pegue o seu café ☕️ e vamos lá:
 
