@@ -22,8 +22,6 @@ export default function SignIn() {
     dispatch(signInRequest(email, password));
   }
 
-  console.tron.log(loading);
-
   return (
     <Container>
       <Content>
